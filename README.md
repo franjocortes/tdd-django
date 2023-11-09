@@ -1,1 +1,1 @@
-# tdd-django
+# Django project with TDD
